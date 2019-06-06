@@ -1,6 +1,6 @@
 {
-  "name": "html-to-text",
-  "version": "5.1.1",
+  "name": "html-to-text2",
+  "version": "1.0.0",
   "description": "Advanced html to plain text converter",
   "main": "index.js",
   "scripts": {
@@ -10,17 +10,17 @@
     "prepublish": "npm test"
   },
   "author": {
-    "name": "Malte Legenhausen",
-    "email": "legenhausen@werk85.de"
+    "name": "Kasper Kraegpoeth",
+    "email": "kraegpoeth@gmail.com"
   },
-  "homepage": "https://github.com/werk85/node-html-to-text",
+  "homepage": "https://github.com/kraegpoeth/node-html-to-text2",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/werk85/node-html-to-text.git"
+    "url": "git://github.com/kraegpoeth/node-html-to-text2.git"
   },
   "bugs": {
-    "url": "https://github.com/werk85/node-html-to-text/issues"
+    "url": "https://github.com/kraegpoeth/node-html-to-text2/issues"
   },
   "dependencies": {
     "he": "^1.2.0",
